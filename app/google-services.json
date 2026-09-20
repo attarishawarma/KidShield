@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497156821713",
+    "project_id": "kids-3ff04",
+    "storage_bucket": "kids-3ff04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497156821713:android:25f07a15163648aca0abf0",
+        "android_client_info": {
+          "package_name": "com.yousafdev.KidShield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYEu0NqOunNmgO_Y1uX5ux-Uemorzmsuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
